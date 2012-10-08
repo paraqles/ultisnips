@@ -1,3 +1,4 @@
-[submodule "Ultisnips"]
-  path = Ultisnips
-  url = https://github.com/paraqles/vim-ultisnips-snippets.git
+
+[submodule "UltiSnips"]
+	path = UltiSnips
+	url = https://github.com/paraqles/vim-ultisnips-snippets.git
